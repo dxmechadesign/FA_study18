@@ -3,4 +3,7 @@
 ## 発表資料
 * スライド  
 https://docs.google.com/presentation/d/1-Cfp5JspwtxXwpX1sLprJMyRR7QZSGSNVZXDAJQsorE/edit?usp=drive_link
-*Node-REDコード
+* Node-REDコード  
+https://github.com/dxmechadesign/FA_study18/blob/main/flows.json
+* iCAD図面(icd) 、iCAD制御検証ファイル(ioc)、DXPserverファイル(dxp)一式  
+ https://drive.google.com/file/d/1M_fiecL203QRUHFOp_D33vUz4m7nrif-/view?usp=drive_link
